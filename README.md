@@ -1,6 +1,6 @@
 # GRL-AMOC-Hysteresis
 
-Asymmetry of AMOC Hysteresis in a State-of-the-Art Global Climate Model, Geophysical Research Letters (2023)
+Asymmetry of AMOC Hysteresis in a State-of-the-Art Global Climate Model, Geophysical Research Letters (October 2023)
 
 René M. van Westen and Henk A. Dijkstra
 
