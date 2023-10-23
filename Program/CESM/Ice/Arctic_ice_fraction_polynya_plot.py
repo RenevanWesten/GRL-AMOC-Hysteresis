@@ -1,4 +1,4 @@
-#Program determines the MOV index
+#Program plots the polynya formed in model year Winter 4090/4090
 
 from pylab import *
 import numpy
